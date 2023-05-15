@@ -5,6 +5,17 @@
 ## 📝 Description 
 Database testing is a type of software testing that checks the schema, tables, triggers etc. of the database under test. In this repository, I have attached my SQL database testing file and the report of SQL Query Execute Output.
 
+ <h2>🎯 Features</h2>
+
+Here're some of the project's best features:
+
+*   Insert Query
+*   Update Query
+*   Delete Query
+*   Group Query
+*   Having Query
+*   Top Query
+
 <h2>Project Screenshots:</h2>
 
 <h3> Insert Query- <h3>
@@ -31,16 +42,6 @@ Database testing is a type of software testing that checks the schema, tables, t
   
 ![TABLE1 (TOP Value)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/bd183ebf-9033-4d64-affd-2d2b21dea1da)
   
-  <h2>🎯 Features</h2>
-
-Here're some of the project's best features:
-
-*   Insert Query
-*   Update Query
-*   Delete Query
-*   Group Query
-*   Having Query
-*   Top Query
   
  <h2>🛠️ Installation Steps:</h2>
 
