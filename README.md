@@ -44,24 +44,23 @@ Here're some of the project's best features:
   
  <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Download &amp; Install Postman.</p>
+<p>1. Download &amp; Install  Microsoft SQL Server 2022.</p>
+  
+<p>2. Download SQL Server Management Studio (SSMS).</p>
 
-<p>2. Download collection &amp; Environment file from here.</p>
+<p>3. Open those file in SSMS </p>
 
-<p>3. Open those file in Postman</p>
+<p>4. Run the project Query in SSMS.</p>
 
-<p>4. Run the project in Postman.</p>
-
-<p>5. To generate HTML report install Newman in your OS.</p>
   
   
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*   Postman
-*   Newman
-*   Node js
+*  Microsoft SQL Server 2022 
+*  SQL Server Management Studio (SSMS)
+*  Google Docs(for project reporting)
   
   
 
