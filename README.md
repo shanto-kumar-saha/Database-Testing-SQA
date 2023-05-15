@@ -48,7 +48,7 @@ Here're some of the project's best features:
   
 <p>2. Download SQL Server Management Studio (SSMS).</p>
 
-<p>3. Open those file in SSMS </p>
+<p>3. Open those file in SSMS. </p>
 
 <p>4. Run the project Query in SSMS.</p>
 
@@ -60,7 +60,7 @@ Technologies used in the project:
 
 *  Microsoft SQL Server 2022 
 *  SQL Server Management Studio (SSMS)
-*  Google Docs(for project reporting)
+*  Google Docs (for project reporting)
   
   
 
