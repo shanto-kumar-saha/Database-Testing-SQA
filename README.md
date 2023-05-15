@@ -12,14 +12,15 @@ Database testing is a type of software testing that checks the schema, tables, t
 ![Table1(20-MultipleValueInsert)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/4608ceed-d2c5-4b3c-a33b-707eea6898f7)
 
 <h4> Update Query <h4>
-  
+
 ![TABLE1(UpdatedValue Inserted)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/0d242d99-f611-4fce-a430-a1766e4f0b1b)
   
 <h5> Delete Query <h5> 
    
 ![TABLE1(Deleted row from table)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/97fad706-76aa-4b7d-8f1f-d7790e3bffe1)
+  
+  <h6> Group Query <h6> 
 
-<h6> Group Query <h6> 
    
 ![TABLE(Group)png](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/37bd0be3-376f-4480-8c28-1b66406c8727)
 
