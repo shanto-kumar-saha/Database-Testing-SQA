@@ -19,7 +19,7 @@ Database testing is a type of software testing that checks the schema, tables, t
    
 ![TABLE1(Deleted row from table)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/97fad706-76aa-4b7d-8f1f-d7790e3bffe1)
 
- <h6> Group Query <h6> 
+<h6> Group Query <h6> 
    
 ![TABLE(Group)png](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/37bd0be3-376f-4480-8c28-1b66406c8727)
 
