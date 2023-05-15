@@ -15,7 +15,7 @@ Database testing is a type of software testing that checks the schema, tables, t
   
 ![TABLE1(UpdatedValue Inserted)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/0d242d99-f611-4fce-a430-a1766e4f0b1b)
   
- <h5> Delete Query <h5> 
+<h5> Delete Query<h5> 
    
 ![TABLE1(Deleted row from table)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/97fad706-76aa-4b7d-8f1f-d7790e3bffe1)
 
