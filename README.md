@@ -30,6 +30,40 @@ Database testing is a type of software testing that checks the schema, tables, t
 <h3> Top Values Query <h3> 
   
 ![TABLE1 (TOP Value)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/bd183ebf-9033-4d64-affd-2d2b21dea1da)
+  
+  <h2>🎯 Features</h2>
+
+Here're some of the project's best features:
+
+*   Insert Query
+*   Update Query
+*   Delete Query
+*   Group Query
+*   Having Query
+*   Top Query
+  
+ <h2>🛠️ Installation Steps:</h2>
+
+<p>1. Download &amp; Install Postman.</p>
+
+<p>2. Download collection &amp; Environment file from here.</p>
+
+<p>3. Open those file in Postman</p>
+
+<p>4. Run the project in Postman.</p>
+
+<p>5. To generate HTML report install Newman in your OS.</p>
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Postman
+*   Newman
+*   Node js
+  
+  
 
 
   
