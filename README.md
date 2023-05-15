@@ -7,7 +7,7 @@ Database testing is a type of software testing that checks the schema, tables, t
 
 <h2>Project Screenshots:</h2>
 
-<h3> Insert Query <h3>
+<h3> Insert Query- <h3>
   
 ![Table1(20-MultipleValueInsert)](https://github.com/shantokumarsaha123/SQA-DatabaseTesting/assets/122052172/4608ceed-d2c5-4b3c-a33b-707eea6898f7)
 
