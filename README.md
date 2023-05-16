@@ -16,7 +16,7 @@ Here're some of the project's best features:
 *   Having Query
 *   Top Query
 
-<h2>Project Screenshots:</h2>
+<h2>🧐 Project Screenshots:</h2>
 
 <h3> Insert Query- <h3>
   
